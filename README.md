@@ -1,4 +1,4 @@
-**Программа расчета площади геометрических фигур**
+**Программа структурного парсинга полей списка однородных объектов**
 
 - **OS:** Windows, Linux, Mac 
 - **Tech Stack:** Java CE, IntelliJ IDEA CE, Git 
@@ -7,8 +7,8 @@
 
 - **Developer:** Евгения Смолкина
 - **Email:** smolkina_ev@nlmk.com
-- **Backup:** https://github.com/Evasmall/jse-20
+- **Backup:** https://github.com/Evasmall/jse-23
 
 | Start |
 | ------ |
-| java -jar jse-20.jar |
+| java -jar jse-23.jar |
